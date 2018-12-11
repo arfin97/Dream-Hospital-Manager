@@ -10,15 +10,15 @@
 https://drive.google.com/open?id=15BKp-LSnN6d2HD_W-eVN1kJ-AqCscuDF
 
 # For Testing Purpose:
-**Doctor:
+Doctor:
 username: q
 password: 1
 
-**Patient:
+Patient:
 username: z
 password: z
 
-**Receptionist:
+Receptionist:
 username: a
 password: 1
 
