@@ -9,6 +9,14 @@ Hospital management system is a software that helps to maintain an entire hospit
 ## 1.	Login features: Doctor, Patient, Receptionist
 Patient and Doctors who were admitted by Receptionist or Receptionists who were admitted by the admin can log in to their pages by using their username and password.
 
+
+
+<img src="https://i.ibb.co/BzsGyZp/Hospis-login-1.png" width="30%"></img> 
+<img src="https://i.ibb.co/1fMv3XW/Hospis-login-2.png" width="30%"></img> 
+<img src="https://i.ibb.co/MM3dJJ3/Hospis-login-3.png" width="30%"></img> 
+
+
+
 ## 2.	Messaging Feature:
 Patient or the receptionist can send messages about the condition or other matter to the doctor assigned. 
 
