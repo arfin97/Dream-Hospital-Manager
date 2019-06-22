@@ -1,5 +1,9 @@
 # Dream Hospital Manager
+
+<img src="https://i.ibb.co/f4tyGj3/hospis-Collage.jpg">
+
 Hospital management system is a software that helps to maintain an entire hospitals. The information of doctors, patient and the hospital rooms are some of the essential information that a hospital needs to maintain. This software will provide the tools to maintain the doctor database, patient database and the hospital room database. The patient or the receptionist can communicate via messaging. It helps to strengthen and ease the relationship between doctors and patient. This software maintains all the data of a patient from the day of his admission till the day of his release. 
+
 
 # Features:
 ## 1.	Login features: Doctor, Patient, Receptionist
