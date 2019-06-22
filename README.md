@@ -18,19 +18,34 @@ Patient and Doctors who were admitted by Receptionist or Receptionists who were 
 
 
 ## 2.	Messaging Feature:
-Patient or the receptionist can send messages about the condition or other matter to the doctor assigned. 
+Patient or the receptionist can send messages about the condition or other matter to the doctor assigned.
 
-## 3.	Doctor’s My Patient list:
+<img src="https://i.ibb.co/fQFn9xW/hospis-message-1.png" width="45%"></img> 
+<img src="https://i.ibb.co/84CFCKs/hospis-message-2.png" width="45%"></img> 
+
+## 3.	Doctor’s Profile and Patient list:
 Doctor can see the patient list, he can see all patient list or only the patients that have been assigned to him. He can also search through the patient list through search option.
 
+<img src="https://i.ibb.co/6r5sJzX/hospis-dotcor-1.png" width="45%"></img> 
+<img src="https://i.ibb.co/k9PGM6Z/doctor-info-update.png" width="45%"></img> 
+<img src="https://i.ibb.co/4gjw2y6/hospis-dotcor-2.png" width="100%"></img> 
+
 ## 4.	Patient Information :
-Patient can show their information  & send message to doctor.
+Patient can see their information  & send message to doctor.
+
+<img src="https://i.ibb.co/rdxmQPt/patient.png" width="100%"></img> 
 
 ## 5.	Adding new patient and doctor:
 Receptionist can add new doctors and patients into the hospital. 
 
+<img src="https://i.ibb.co/C9pywNH/add-patient-doctor-1.png" width="100%"></img> 
+<img src="https://i.ibb.co/TtZcLG7/add-patient-doctor-2.png" width="100%"></img> 
+<img src="https://i.ibb.co/ykqvVyx/add-patient-doctor-3.png" width="100%"></img> 
+
 ## 6.	Releasing patient: 
 Receptionist can release patient. Receptionist can also calculate the total payable of the patient and generated a token for releasing.
+<img src="https://i.ibb.co/RjXKDfQ/relaease-2.png" width="100%"></img> 
+<img src="https://i.ibb.co/Dfyt1J2/relaease-1.png" width="100%"></img> 
 
 
 # The repo RAR file contains:
