@@ -1,26 +1,47 @@
 # Dream Hospital Manager
+Hospital management system is a software that helps to maintain an entire hospitals. The information of doctors, patient and the hospital rooms are some of the essential information that a hospital needs to maintain. This software will provide the tools to maintain the doctor database, patient database and the hospital room database. The patient or the receptionist can communicate via messaging. It helps to strengthen and ease the relationship between doctors and patient. This software maintains all the data of a patient from the day of his admission till the day of his release. 
 
-# The attached RAR file contains:
+# Features:
+## 1.	Login features: Doctor, Patient, Receptionist
+Patient and Doctors who were admitted by Receptionist or Receptionists who were admitted by the admin can log in to their pages by using their username and password.
+
+## 2.	Messaging Feature:
+Patient or the receptionist can send messages about the condition or other matter to the doctor assigned. 
+
+## 3.	Doctor’s My Patient list:
+Doctor can see the patient list, he can see all patient list or only the patients that have been assigned to him. He can also search through the patient list through search option.
+
+## 4.	Patient Information :
+Patient can show their information  & send message to doctor.
+
+## 5.	Adding new patient and doctor:
+Receptionist can add new doctors and patients into the hospital. 
+
+## 6.	Releasing patient: 
+Receptionist can release patient. Receptionist can also calculate the total payable of the patient and generated a token for releasing.
+
+
+# The repo RAR file contains:
 
 1. HospitalManagement V0.8t.jar (Software version 0.8)
 2. HospitalManagement V0.7t.jar (Software version 0.7)
 3. Database/HospitalManagement.db (Database version 0.2)
 
-## Download:
+## Download the repo or you can downlaod from:
 https://drive.google.com/open?id=15BKp-LSnN6d2HD_W-eVN1kJ-AqCscuDF
 
-# For Testing Purpose:
-Doctor:
-username: q
-password: 1
+# For Testing Purpose use:
+Doctor: <br>
+username: q <br>
+password: 1 <br>
 
-Patient:
-username: z
-password: z
+Patient: <br>
+username: z <br>
+password: z <br>
 
-Receptionist:
-username: a
-password: 1
+Receptionist: <br>
+username: a <br>
+password: 1 <br>
 
 # Software used:
 ## IDE:Eclipse IDE for Java EE Developers
@@ -41,3 +62,14 @@ https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.9.1/DB.Brows
 5. Updated Database version 0.3 with enough patients. 
 6. All buttons are flat.
 7. Designed add doctor, add patient, patient release page.
+
+# Challenges faced:
+1.	Database was blocked.
+2.	Action Listeners can’t write variables.
+3.	Closing window properly.
+4.	Deleting, Updating, Inserting into the database.
+5.	Tabs, Combo box, Radio Button etc. implementation.
+6.	Fixing little bugs. 
+
+# Conclusion:
+This was a great experience doing this project. This project was intended to make the hospital management system easier and reliable. I hope the intention of the program gets full filled. It will greatly help the hospitals that are little and are growing. The full scale version update of this program will be applicable to the bigger enterprise hospitals. The challenges I faced and the learning I’ve gone through will come in great help in the future. 
