@@ -48,7 +48,7 @@ Receptionist can release patient. Receptionist can also calculate the total paya
 <img src="https://i.ibb.co/Dfyt1J2/relaease-1.png" width="100%"></img> 
 
 
-# The repo RAR file contains:
+# The repo contains:
 
 1. HospitalManagement V0.8t.jar (Software version 0.8)
 2. HospitalManagement V0.7t.jar (Software version 0.7)
@@ -57,7 +57,7 @@ Receptionist can release patient. Receptionist can also calculate the total paya
 ## Download the repo or you can downlaod from:
 https://drive.google.com/open?id=15BKp-LSnN6d2HD_W-eVN1kJ-AqCscuDF
 
-# For Testing Purpose use:
+# For Testing Purpose open jar file and use:
 Doctor: <br>
 username: q <br>
 password: 1 <br>
